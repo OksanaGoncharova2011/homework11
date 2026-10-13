@@ -7,7 +7,6 @@ void main() {
     String lastName = " ИВАНОВА ";
     String fullName = "Ф.И.О.";
     System.out.println(fullName +" сотрудника - " + lastName + firstName + middleName);
-
 //_____________
     // Преобразование строки в верхний регистр
     String upperFullName = "Ivanov Ivan Ivanovich";
